@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SyedAunZaidi
-- 👀 I’m interested in Data Science, web development and cloud computing. 
-- 🌱 I’m currently learning Django.
-- 💞️ I’m looking to collaborate on my projects.
+- 👀 I’m interested in Data Science, DevOps and cloud computing. 
+- 🌱 I’m currently learning making and managing Kuburnetes.
+- 💞️ I’m looking to collaborate on DevOps projects.
 - 📫 You can reach me on aunmuhammad7@live.com
 
 <!---
