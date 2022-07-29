@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @SyedAunZaidi
 - 👨‍💻 I have three years of working experience in DevOps, VoIP and Data Engineering.
 - 👨‍🎓 I hold Bachelor's degree in Computer Engieering and Master's degree in Data Science.
-- 🛠️ My area of expertise include Site Reliability Enginnering, Project Management and deployment of VoIP systems. 
+- 🛠️ My area of expertise include Site Reliability Enginnering, Project Management and deployment of VoIP systems.
+- 📜 Certifications include AZ-400, PSM. 
 - 🤝 I’m looking to collaborate on DevOps projects.
 - 📫 You can reach me on aunmuhammad7@live.com
 
