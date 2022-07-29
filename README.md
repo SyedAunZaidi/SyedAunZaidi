@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @SyedAunZaidi
-- 👀 I’m interested in Data Science, DevOps and cloud computing. 
-- 🌱 I’m currently learning making and managing Kuburnetes.
-- 💞️ I’m looking to collaborate on DevOps projects.
+- 👨‍💻 I have three years of working experience in DevOps, VoIP and Data Engineering.
+- 👨‍🎓 I hold Bachelor's degree in Computer Engieering and Master's degree in Data Science.
+- 🛠️ My area of expertise include Site Reliability Enginnering, Project Management and deployment of VoIP systems. 
+- 🤝 I’m looking to collaborate on DevOps projects.
 - 📫 You can reach me on aunmuhammad7@live.com
 
 <!---
