@@ -1,4 +1,6 @@
-I am an Engineering lead for the AI team at Ibex, where I lead the way in solving challenging and impactful problems using cutting-edge technologies and frameworks. I am responsible for designing and developing innovative AI applications for text and speech domains. I also have a strong background in creating and deploying containerized VOIP deployments using a variety of tools and technologies. I am passionate about engineering excellence, innovation, and leadership, and I am always eager to learn new skills and collaborate with other professionals in my field.
+👋 Hi, I’m @SyedAunZaidi
+
+I am an Engineering lead for the AI team at Ibex, where I lead the way in solving challenging and impactful problems using cutting-edge technologies and frameworks. I hold a Bachelor's degree in Computer Engineering and a Master's degree in Data Science. I am responsible for designing and developing innovative AI applications for text and speech domains. I also have a strong background in creating and deploying containerized VOIP deployments using a variety of tools and technologies. My certifications include Azure DevOps Expert, Azure Administrator Associate, Azure Data Scientist Associate, among others. I am passionate about engineering excellence, innovation, and leadership and am always eager to learn new skills and collaborate with other professionals in my field.
 
 ## Brief Summary of my Experiences:
 
@@ -23,22 +25,18 @@ I am an Engineering lead for the AI team at Ibex, where I lead the way in solvin
 ### Infrastructure as Code:
 
 - Ansible
-    - Scripts for setting up environment for VOIP solution, installations and configurations
+    - Scripts for setting up the environment for VOIP solution, installations, and configurations
     - Scripts for setting up development setups
     - Scripts for identity and access management.
     - Managing servers using ad-hoc commands
     - Scripting for OS patching
 - Terraform for Azure
-    - Multi region / zones VM's
-    - Multi region VNET's with peering
+    - Multi-region/zones VMs
+    - Multi-region VNETs with peering
 
 ### Pipelining on GitLab CI:
 
-- Pipeline for containerized Laravel based PHP application using nginx and composer environment on GitLab CI
-- Automated deployment for internal Helpdesk application in containerized environment.
+- Pipeline for containerized Laravel-based PHP application using nginx and composer environment on GitLab CI
+- Automated deployment for internal Helpdesk application in a containerized environment.
 
-
-<!---
-SyedAunZaidi/SyedAunZaidi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+You can reach me at 📫 [aunmuhammad7@live.com](mailto:aunmuhammad7@live.com).
